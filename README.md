@@ -101,6 +101,8 @@ C 기반의 프로그래밍 언어; void 함수
 
 **2. Stack**
 
+![image](https://github.com/user-attachments/assets/3c3a488e-20a6-44f3-a621-5810d44ddd44)
+
 -> 추가된 요소를 메모리의 가장 앞 주소에 배치하는 선형 데이터 구조
 
  - 푸시 = 스택에 요소를 추가하는 동작
@@ -110,6 +112,9 @@ C 기반의 프로그래밍 언어; void 함수
  - **동적 스택** = 실행중에 크기를 늘릴 수 있음.
    
 **3. queue**
+
+![image](https://github.com/user-attachments/assets/0e69ea08-6712-43d8-8fc9-d8b213f0273a)
+
  -> 각 요소에 우선순위를 부여하는 데이터 구조 
  - enqueue; 큐에 요소를 추가
  - dequeue;  큐에서 요소를 삭제하는것. (가장 오래된 요소가 우선 삭제.)
@@ -137,11 +142,17 @@ C 기반의 프로그래밍 언어; void 함수
      
 
 **5. Heap**
+
+![image](https://github.com/user-attachments/assets/3ef5dd22-9767-43be-b66d-23a3f308a306)
+
 -> 트리 기반 데이터 구조 (값이 최소 혹은 최소인 노드에 빠르게 접근해야 하는 응용 프로그램에 적합.)
 - **최대 힙 (=max heap)**: 루트 노드가 힙에서 가장 큰값, 노드 각각의 값이 부모 노드보다 작거나 같도록 구성된 힙
 - **최소 힙 (=min heap)**: 루트 노드가 힙에서 가장 작은 값, 노드 각각의 값이 부모 노드보다 크거나 같도록 구성된 힙.
   
 **6. Hash**
+
+![image](https://github.com/user-attachments/assets/dd24f26d-3714-4459-a547-32e7bb2510fc)
+
 -> 어떤 길이의 임의 데이터를 고정 길이의 데이터로 매핑하는 것. 
 
  - 해시 함수 = 해시를 실행하려고 하나의 값을 다른 값으로 변환하는 상자를 뜻함.
