@@ -6,11 +6,20 @@
 
 **3. DFS (Depth-First-Search)**
 
-**4. 선형 탐색**
-(pg.103~~ )
+**4. 선형 탐색 - O(n)**
 
-**5. 이진 탐색**
-(pg.107 ~~ )
+요소 개수 증가 : 알고리즘 실행 시간 증가 
+
+**5. 이진 탐색 - O(logn)**
+
+로그 -> y = a^x
+지수 -> X = log_a (y)
+
+데이터 수 =n, 비교 횟수 = m
+-> m= log_2 (n)
+
+![image](https://github.com/user-attachments/assets/b8261a87-2a51-4ce0-ae01-95f481005254)
+
 
 **6. 정렬 알고리즘**
 
